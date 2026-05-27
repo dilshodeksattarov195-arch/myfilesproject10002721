@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productspdate",
+        "uuid": 23299923,
+        "checksum": "962sw"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
